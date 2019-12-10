@@ -1,6 +1,6 @@
 .app{
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .pkm-dropdown{
@@ -11,5 +11,5 @@
 .pkm-container{
   display: flex;
   flex-direction: column;
-  margin: 50px 200px 0px;
+  margin: 50px 20px 0px;
 }
